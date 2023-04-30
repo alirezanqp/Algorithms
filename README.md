@@ -1,1 +1,2 @@
 # algorithms
+    - binary search
