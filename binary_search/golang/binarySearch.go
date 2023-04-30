@@ -46,5 +46,5 @@ func main() {
 	fmt.Println(binarySearchIterative([]int{1, 2, 3, 4, 5}, 6))
 
 	fmt.Println(binarySearchRecursive([]int{1, 2, 3, 4, 5}, 3, 0, 4))
-    fmt.Println(binarySearchRecursive([]int{1, 2, 3, 4, 5}, 6, 0, 4))
+    	fmt.Println(binarySearchRecursive([]int{1, 2, 3, 4, 5}, 6, 0, 4))
 }
